@@ -1,1 +1,3 @@
-# Black_Friday_EDA_and_FE_and_MT
+# Black Friday EDA and FE and MT
+
+Dataset: https://www.kaggle.com/sdolezel/black-friday
